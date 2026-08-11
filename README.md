@@ -37,6 +37,7 @@ Modular layer stack · OpenGL 4.x backend · GLFW integration · Custom event di
 | Project | Tech | Description |
 |---|---|---|
 | [Low-Level Systems Library](https://github.com/vaibhavbisht-dev/Low-Level_Systems_Library) | C++ | DynamicArray + Arena Allocator built without STL |
+| [Software Rastorizer](https://github.com/vaibhavbisht-dev/SoftwareRasterizer) | C++ | Without OpenGl or Vulkun |
 | [Moebius-Style 3D Rendering](https://github.com/vaibhavbisht-dev/Moebius_Style_3D_Rendering) | Unity · HLSL · URP | Stylized outline + cross-hatch rendering via URP Render Graph |
 | [Dither Effect Render Pass](https://github.com/vaibhavbisht-dev/UnityDitherEffectRenderPass) | Unity · URP | Full-screen dithering as a custom URP renderer feature |
 | Tetris Clone | C++ · OpenGL | Faithful Tetris implementation with Fisher-Yates randomization |
