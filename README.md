@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavbishtgamedev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Glit3hGameDev)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://glit3hgamedev.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vaibhavbisht.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vaibhavbisht-dev.github.io/)
 
 # Vaibhav Bisht — Game Programmer & Engine Developer
 
