@@ -3,7 +3,7 @@
 - 🧠 Obsessed with: ECS patterns, memory management, real-time physics & engine architecture
 - 🎮 Creating: game dev breakdowns & build-in-public content for developers who want to go deeper
 - 💼 Available for: freelance game dev, engine work, Unity systems & indie game collaborations
-- 📍 Based in: Ambala Cantt, India — building from scratch, in public
+- 📍 Based in: India — building from scratch, in public
 - ⚡ Philosophy: Performance is a feature. Architecture is the foundation of fun.
 
 
